@@ -3,7 +3,7 @@
 ## 概要
 Rails6でのアプリ開発/ポートフォリオ第2弾<br />
 家族が経営するカフェのECサイト制作<br />
-→PHP/Laravelに変更
+→開発言語及びフレームワークをPHP/Laravelに変更
 
 ## 開発環境
 - OS：Linux(CentOS)
